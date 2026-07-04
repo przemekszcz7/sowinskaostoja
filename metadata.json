@@ -1,0 +1,6 @@
+{
+  "name": "Sowińska Ostoja",
+  "description": "Ekskluzywna hodowla koni rasy Gypsy Cob / Irish Cob oraz luksusowe wyjazdy w teren.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
